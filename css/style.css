@@ -69,7 +69,7 @@ header nav ul li a {
 
   /* HERO START*/
   .hero {
-    background-image: url(/Users/diegoconserve/Desktop/Bootcamp/Challenge/Professional-Portfolio/assests/images/abstract-art.jpg);
+    background-image: url("../assests/images/abstract-art.jpg");
     height: 170px;
     background-size: cover;
     background-position: center;
@@ -174,11 +174,11 @@ header nav ul li a {
 .run-buddy {
     grid-column: 1/3;
     grid-row: span 2;
-    background-image: url(/Users/diegoconserve/Desktop/Bootcamp/Challenge/Professional-Portfolio/assests/images/hero-bg.jpeg);
+    background-image: url("../assests/images/hero-bg.jpg");
 }
  
 .robot-gladiators {
-    background-image: url(/Users/diegoconserve/Desktop/Bootcamp/Challenge/Professional-Portfolio/assests/images/robot-gladiators.webp);
+    background-image: url("../assests/images/robot-gladiators.webp");
     background-size: cover;
     background-position: top;
     height: 200px;
@@ -186,7 +186,7 @@ header nav ul li a {
 
 .project-3 {
     background-size: cover;
-    background-image: url(/Users/diegoconserve/Desktop/Bootcamp/Challenge/Professional-Portfolio/assests/images/rolling-hills.jpeg);
+    background-image: url("../assests/images/rolling-hills.jpeg");
 }
 /* MY WORK END*/
 
