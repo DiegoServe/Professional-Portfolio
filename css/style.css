@@ -184,9 +184,11 @@ header nav ul li a {
     height: 200px;
 }
 
-.project-3 {
+.cat-shack {
     background-size: cover;
-    background-image: url("../assests/images/rolling-hills.jpeg");
+    background-image: url("../assests/images/cat-shack.png");
+    background-position: top;
+    
 }
 /* MY WORK END*/
 
